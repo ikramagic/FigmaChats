@@ -1,10 +1,15 @@
 # Maquette Figma de la boutique de chatons
 
-Voici la maquette Figma de notre projet Photochaton, merci Grégory Magnat et la team Arabicode! (@100PBaguuette)
+Voici la maquette Figma de notre projet Photochaton, merci à Grégory Magnat et la team Arabicode!
 
 ## Aperçu de la maquette 
 
-*images*
+![Hompage](cat1.png)
+![Log in](cat2.png)
+![Sign up](cat3.png)
+![Products](cat4.png)
+![Product Page](cat5.png)
+![Basket](cat6.png)
 
 ## Lien pour la consulter 
 
